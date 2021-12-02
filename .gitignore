@@ -20,9 +20,7 @@ npm-debug.log
 lyte/db_settings.py
 *.sublime-workspace
 .elasticbeanstalk/
-lyte.log*
 staticfiles/
-celerybeat-schedule
 _local/**
 static/_local_fake_cdn/
 geckodriver.log
