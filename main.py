@@ -13,4 +13,4 @@ while run:
             run = False
     if keys[pygame.K_ESCAPE]:
         run = False
-# created by laz
+# created by Fral
